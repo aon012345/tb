@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 03 Dec 2024 14:20:19 at https://tb.co.th/property/��·�ǹ�������-�����ҹ������آ���-16-��Ъ��ط��-90-��طû�ҡ��.p.95241 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://tb.co.th/property/¢ÒÂ·ÒÇ¹ìàÎéÒÊì-ËÁÙèºéÒ¹ÇÔàÈÉÊØ¢¹¤Ã-16-»ÃÐªÒÍØ·ÔÈ-90-ÊÁØ·Ã»ÃÒ¡ÒÃ.p.95241 -O1 "d:\My Web Sites\https___tb.co.th" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:20:33	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://tb.co.th/property/¢ÒÂ·ÒÇ¹ìàÎéÒÊì-ËÁÙèºéÒ¹ÇÔàÈÉÊØ¢¹¤Ã-16-»ÃÐªÒÍØ·ÔÈ-90-ÊÁØ·Ã»ÃÒ¡ÒÃ.p.95241)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 48 seconds : 128 links scanned, 126 files written (53637832 bytes overall) [43668031 bytes received at 404333 bytes/sec], 28870223 bytes transferred using HTTP compression in 68 files, ratio 64%, 14.2 requests per connection
+(1 errors, 0 warnings, 0 messages)
